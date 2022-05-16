@@ -36,21 +36,21 @@ let arrayOfFlavours = [
     value: "pepperoni",
     price: 30,
     imgUrl:
-      "https://i2.wp.com/multarte.com.br/wp-content/uploads/2019/03/pizza-png-fundo-transparente20.png?fit=934%2C909&ssl=1"
+      "./assets/pepperoni.png",
   },
   {
-    label: "Margherita",
+    label: "Siciliana",
     name: "flavours",
     value: "margherita",
     price: 40,
-    imgUrl: "https://i.imgur.com/f3FpTVv.png"
+    imgUrl: "./assets/siciliana.png",
   },
   {
-    label: "Veggie",
+    label: "Cogumelos",
     name: "flavours",
     value: "veggie",
     price: 35,
-    imgUrl: "https://i.imgur.com/MyzHazU.png"
+    imgUrl: "./assets/cogumelos.png",
   }
 ];
 
